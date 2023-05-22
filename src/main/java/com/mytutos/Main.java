@@ -7,6 +7,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
+// TODO
+// fix maven warning CVE-2022-1471
+// Use Lombok
+
 @SpringBootApplication
 @RestController
 public class Main {
